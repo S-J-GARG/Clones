@@ -1,0 +1,225 @@
+.home {
+    display: block;
+    overflow:hidden;
+    max-width: 100%;
+    justify-content: center;
+    grid-auto-columns: 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+    color: #000000;
+    font-size: 16px;
+    -o-object-fit: fill;
+    object-fit: fill;
+    -o-object-position: 0% 0%;
+    object-position: 0% 0%;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin: 0px 0px 0px 0px;
+    padding-left: 10%; 
+    padding-right:10%;
+    background-color: rgb(243, 243, 247);
+
+    
+  }
+  .header {
+
+    display:flex;
+    width: 100%;
+    height: 20%;
+    margin: 1rem;
+    padding: 5% 2% 5% 0%;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-self: center;
+    
+  }
+ .say-hii{
+    display:flex;
+    border-radius: 1rem;
+    margin-top:2%;
+    width: 50%;
+    height: 10%;
+    justify-content: center;
+    margin-bottom:5%;
+  }
+  .logo{
+
+    width: 10vw;
+    height: 10vh;
+    margin-bottom:5%;
+    width: 50%;
+    justify-content: start;
+  }
+  .circle{
+    display: flex;
+    margin: 0px 0px 0px 0px;
+
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    background-position: 50% 50%;
+    background-size: 88px;
+    background-repeat: no-repeat;
+  
+  }
+  .circle{
+    justify-content: center;
+    align-items: center;
+    background-size: 180px;
+    background-color:rgb(214, 161, 64) ;
+    background-image:url(https://uploads-ssl.webflow.com/57c5dd245cc3aa553acf1266/637be6e9562e443775e73aab_avatar_bg.png);
+  }
+  .avatar{
+    margin-left:2%;
+    justify-content: start;
+  }
+  .hello-span {
+    font-family: Georgia, serif;
+    font-size: 2rem;
+
+  }
+  .gradient-span {
+    background-image: linear-gradient(90deg, #e47a7e, #ad76bc 33%, #8380f4 71%, #a6a5ec);
+    color: #999;
+    font-size: 4rem;
+    line-height: 60px;
+    text-align: center;
+    white-space: normal;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Bruno Ace SC', cursive;
+  }
+  .footer-devider {
+    display: flex;
+    border: 2px solid rgb(236, 233, 217);
+    margin-top: 50px;
+    margin-bottom: 60px;
+    justify-content: center;
+    align-items: center;
+  }
+  .aboutme{
+    font-family:Arial,sans-serif ;
+    color:rgb(4, 4, 82);
+    font-size: 5rem;
+    font-weight: 400;
+  }
+  .jobs{
+    display: flex;
+    margin: 0x;
+    border-top: #a02b2b;
+    justify-content: center;
+    font-weight: 400;
+    color: #120e79;
+    font-family: Arial, Helvetica;
+    font-size: 2rem;
+    }
+ .work{
+  display: flex;
+  /* background-color: #da7070; */
+  width: 100%;
+  height: 100%;
+  margin: 2% 0% 2% 1% ;
+  padding: 3% 3% 3% 1%;
+  font-family:   Georgia, sans-serif;
+  font-size: 1.5em;
+  font-weight: 200;
+}
+.companies{
+  width: 25rem;
+  height: 30rem;
+  background-color: rgb(255, 254, 254);
+  border:20px;
+  border-radius: 5%;
+  padding: 5% 5% 5% 5%;
+  margin-left: 2%;
+  
+}
+.companies-img-1{
+  
+  width: 200px;
+  height: 200px;
+  padding-bottom: 5%;
+  margin: 8px 10px 10px 10px;
+  display:flex;
+}
+
+.companies-img-2{
+  width: 100px;
+  padding-bottom: 5%;
+  height: 200px;
+  margin: 10px 10px 5px 10px;
+  display:flex;
+}
+  
+
+.companies-img-3{
+  width: 150px;
+  height: 150px;
+  padding: 0% 7% 5% 5%;
+  margin: 20px 10px 25px 30px;
+  display:flex;
+}
+.companies-name{
+  /* font-family: 'Inter', sans-serif; */
+font-family: 'Noto Sans JP', sans-serif;
+  font-size: 50px;
+  padding-bottom: 10%;
+  font-weight:500;
+  color: #0e0935;
+ 
+}
+.companies-year{
+  font-size: 30px;
+  font-weight: 400;
+  padding-bottom: 15%;
+}
+.companies-position{
+  color: rgb(70, 68, 65);
+  font-size: 30px;
+  font-weight: 400;
+  padding-bottom: 5%;
+}
+.current-position  {
+  background-image: linear-gradient(90deg, #bd494d, #9845af 33%, #312ccf 71%, #3d3c77); 
+  background-clip:text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+.footer{
+  display:flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Verdana, sans-serif;
+  color: #0f0875;
+  width:100%;
+  height: 10%;
+  /* background-color: #605ce2; */
+
+}
+.social-media{
+  display: flex;
+/* background-color: #9845af; */
+padding: 2% 6% 5% 4%;
+justify-content: center;
+  }
+  .social-img{
+    padding: 1% 5% 0% 0%;
+  }
+  .social-text{
+    padding: 5% 5% 0% 0%;
+  }
+  
+
+
+  
+
+  
+    
+  

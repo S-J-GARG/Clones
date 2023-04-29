@@ -1,0 +1,237 @@
+@media screen and (max-width:641px) {
+    .home{
+        width: 100%;
+        margin: 0 3% 3% 0%;
+        padding: 2% 4% 2% 2%;
+    }
+    .header{
+       display: flex;
+        padding-bottom: 10%;
+        margin: 0%;
+
+    }
+    .logo{
+
+       
+        padding: 5% 30% 0% 0%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+       
+    }
+    .circle{
+        justify-content: center;
+        align-items: center;
+        background-size: 150px;
+        background-color:rgb(214, 161, 64) ;
+        background-image:url(https://uploads-ssl.webflow.com/57c5dd245cc3aa553acf1266/637be6e9562e443775e73aab_avatar_bg.png);
+      }
+    .avatar {
+        height: 150px;
+        width: 150px;
+            }
+    .aboutme{
+            padding-top: 10%;
+        font-size:40px;
+        font-weight: 700;
+    }
+    .gradient-span{
+        font-size:40px;
+        font-weight: 700;
+        line-height: 46px;
+        
+    }
+    .hello-span{
+        font-size:30px;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .work{
+        display: inline;
+    }
+    .companies{
+        
+        width: 90%;
+        padding: 0% 5% 5% 0%;
+        margin-bottom: 10%;
+
+    }
+    .companies-1{
+        padding: 0%;
+        margin-bottom:0%;
+    }
+    .med-qur-comp{
+        padding-bottom: 5%;
+        padding-top: 0%;
+      padding-left: 20%;
+    }
+    .current-position{
+        padding-left: 0%;
+    }
+    .companies-img-3{
+        padding: 5% 0% 3% 15%;
+    }
+    .footer{
+        display: inline;
+    }
+
+}
+@media screen and (max-width:800px) {
+    .home{
+        width: 100%;
+        margin: 0 3% 3% 0%;
+        padding: 2% 4% 2% 2%;
+    }
+    .header{
+       display: flex;
+        padding-bottom: 10%;
+        margin: 0%;
+
+    }
+    .logo{
+
+       
+        padding: 5% 30% 0% 0%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+       
+    }
+    .circle{
+        justify-content: center;
+        align-items: center;
+        background-size: 150px;
+        background-color:rgb(214, 161, 64) ;
+        background-image:url(https://uploads-ssl.webflow.com/57c5dd245cc3aa553acf1266/637be6e9562e443775e73aab_avatar_bg.png);
+      }
+    .avatar {
+        height: 150px;
+        width: 150px;
+            }
+    .aboutme{
+            padding-top: 10%;
+        font-size:50px;
+        font-weight: 700;
+    }
+    .gradient-span{
+        font-size:50px;
+        font-weight: 700;
+        line-height: 46px;
+        
+    }
+    .hello-span{
+        font-size:30px;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .work{
+        display: inline;
+    }
+    .companies{
+        
+        width: 90%;
+        padding: 0% 5% 5% 0%;
+        margin-bottom: 10%;
+
+    }
+    .companies-1{
+        padding: 0%;
+        margin-bottom:0%;
+    }
+    .med-qur-comp{
+        padding-bottom: 5%;
+        padding-top: 0%;
+      padding-left: 20%;
+    }
+    .current-position{
+        padding-left: 0%;
+    }
+    .companies-img-3{
+        padding: 5% 0% 3% 15%;
+    }
+    .footer{
+        display: inline;
+    }
+
+}
+@media screen and (max-width:940px) {
+    .home{
+        width: 100%;
+        margin: 0 3% 3% 0%;
+        padding: 2% 4% 2% 2%;
+    }
+    .header{
+       display: flex;
+        padding-bottom: 10%;
+        margin: 0%;
+
+    }
+    .logo{
+
+       
+        padding: 5% 30% 0% 0%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+       
+    }
+    .circle{
+        justify-content: center;
+        align-items: center;
+        background-size: 150px;
+        background-color:rgb(214, 161, 64) ;
+        background-image:url(https://uploads-ssl.webflow.com/57c5dd245cc3aa553acf1266/637be6e9562e443775e73aab_avatar_bg.png);
+      }
+    .avatar {
+        height: 150px;
+        width: 150px;
+            }
+    .aboutme{
+            padding-top: 10%;
+        font-size:60px;
+        font-weight: 700;
+    }
+    .gradient-span{
+        font-size:60px;
+        font-weight: 700;
+        line-height: 46px;
+        
+    }
+    .hello-span{
+        font-size:30px;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .work{
+        display: inline;
+    }
+    .companies{
+        
+        width: 90%;
+        padding: 0% 5% 5% 0%;
+        margin-bottom: 10%;
+
+    }
+    .companies-1{
+        padding: 0%;
+        margin-bottom:0%;
+    }
+    .med-qur-comp{
+        padding-bottom: 5%;
+        padding-top: 0%;
+      padding-left: 20%;
+    }
+    .current-position{
+        padding-left: 0%;
+    }
+    .companies-img-3{
+        padding: 5% 0% 3% 15%;
+    }
+    .footer{
+        display: inline;
+    }
+
+}
